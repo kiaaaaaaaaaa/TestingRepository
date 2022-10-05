@@ -1,0 +1,4 @@
+Nama	: Kiaa
+Kelas	: XII-RPL
+
+Latihan Membuat OOP
